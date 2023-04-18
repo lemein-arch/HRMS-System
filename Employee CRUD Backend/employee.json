@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5,
+    "firstName": "Briano",
+    "middleName": "Sigilai",
+    "lastName": "Porus",
+    "phoneNumber": "0792071276",
+    "email": "p@gmail.com"
+  },
+  {
+    "id": 4,
+    "firstName": "Kevin",
+    "middleName": "Lemein",
+    "lastName": "Ngwiri",
+    "phoneNumber": "0704069264",
+    "email": "klemein15@gmail.com"
+  },
+  {
+    "id": 3,
+    "firstName": "Realtor",
+    "middleName": "Sandton",
+    "lastName": "Porus",
+    "phoneNumber": "073454344444",
+    "email": "jamses@gmail.com"
+  },
+  {
+    "id": 6,
+    "firstName": "Once",
+    "middleName": "Upon",
+    "lastName": "A Time",
+    "phoneNumber": "0712345678",
+    "email": "once@gmail.com"
+  }
+]
